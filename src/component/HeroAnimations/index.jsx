@@ -140,7 +140,7 @@ const HeroAnimations = () => {
         <a href="#">Order Now</a>
       </div>
 
-      <div class="year">2022*</div>
+      <div class="year">{new Date().getFullYear()}*</div>
 
       {/* <div class="media">
         <ul>

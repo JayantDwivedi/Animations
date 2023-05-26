@@ -1,0 +1,22 @@
+.space{
+    height: 100vh;
+}
+.container {
+    height:100vh;
+    background:lightpink;
+}
+
+
+.heading {
+    font-size: 4rem;
+    color:red;
+}
+
+.headin {
+    font-size: 4rem;
+    color:red;
+}
+
+.dsc{
+    margin-top: 3rem;
+}
